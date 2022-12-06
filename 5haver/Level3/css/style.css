@@ -1,0 +1,21 @@
+:root {
+  --gray-normal: #dde6f0;
+  --gray-light: #f3f5f6;
+  --gray-dark: #717173;
+  --dark-text: #343336;
+}
+@import url('https://fonts.googleapis.com/css2?family=Cairo&family=Roboto:wght@400;500;700;900&display=swap');
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}

@@ -1,0 +1,582 @@
+.wrapper {
+}
+.header {
+  /* .header__container */
+
+  &__container {
+  }
+
+  /* .header__logo */
+
+  &__logo {
+  }
+
+  /* .header__menu */
+
+  &__menu {
+  }
+}
+. {
+  /* ._container */
+
+  &_container {
+  }
+
+  /* ._ibg */
+
+  &_ibg {
+  }
+}
+.menu {
+  /* .menu__list */
+
+  &__list {
+  }
+
+  /* .menu__item */
+
+  &__item {
+  }
+
+  /* .menu__link */
+
+  &__link {
+  }
+}
+.page {
+  /* .page__main-block */
+
+  &__main-block {
+  }
+
+  /* .page__services */
+
+  &__services {
+  }
+
+  /* .page__advantages */
+
+  &__advantages {
+  }
+
+  /* .page__practice */
+
+  &__practice {
+  }
+
+  /* .page__whoweare */
+
+  &__whoweare {
+  }
+
+  /* .page__clients */
+
+  &__clients {
+  }
+
+  /* .page__subscribe */
+
+  &__subscribe {
+  }
+
+  /* .page__getintouch */
+
+  &__getintouch {
+  }
+
+  /* .page__contact */
+
+  &__contact {
+  }
+}
+.main-block {
+  /* .main-block__container */
+
+  &__container {
+  }
+
+  /* .main-block__body */
+
+  &__body {
+  }
+
+  /* .main-block__title */
+
+  &__title {
+  }
+
+  /* .main-block__text */
+
+  &__text {
+  }
+
+  /* .main-block__buttons */
+
+  &__buttons {
+  }
+
+  /* .main-block__button */
+
+  &__button {
+    /* .main-block__button_orange */
+
+    &_orange {
+    }
+
+    /* .main-block__button_border */
+
+    &_border {
+    }
+  }
+
+  /* .main-block__image */
+
+  &__image {
+  }
+}
+.services {
+  /* .services__container */
+
+  &__container {
+  }
+
+  /* .services__body */
+
+  &__body {
+  }
+
+  /* .services__column */
+
+  &__column {
+  }
+
+  /* .services__item */
+
+  &__item {
+  }
+}
+.item-service {
+  /* .item-service_green */
+
+  &_green {
+  }
+
+  /* .item-service__icon */
+
+  &__icon {
+  }
+
+  /* .item-service__title */
+
+  &__title {
+  }
+
+  /* .item-service__text */
+
+  &__text {
+  }
+}
+.advantages {
+  /* .advantages__container */
+
+  &__container {
+  }
+
+  /* .advantages__header */
+
+  &__header {
+  }
+
+  /* .advantages__body */
+
+  &__body {
+  }
+
+  /* .advantages__column */
+
+  &__column {
+  }
+
+  /* .advantages__item */
+
+  &__item {
+  }
+
+  /* .advantages__icon */
+
+  &__icon {
+  }
+
+  /* .advantages__value */
+
+  &__value {
+  }
+
+  /* .advantages__text */
+
+  &__text {
+  }
+}
+.header-block {
+  /* .header-block__title */
+
+  &__title {
+  }
+
+  /* .header-block__sub-title */
+
+  &__sub-title {
+  }
+}
+.practice {
+  /* .practice__container */
+
+  &__container {
+  }
+
+  /* .practice__header */
+
+  &__header {
+  }
+
+  /* .practice__body */
+
+  &__body {
+  }
+
+  /* .practice__column */
+
+  &__column {
+  }
+
+  /* .practice__item */
+
+  &__item {
+  }
+}
+.item-practice {
+  /* .item-practice__content */
+
+  &__content {
+  }
+
+  /* .item-practice__link */
+
+  &__link {
+  }
+
+  /* .item-practice__title */
+
+  &__title {
+  }
+
+  /* .item-practice__text */
+
+  &__text {
+  }
+
+  /* .item-practice__image */
+
+  &__image {
+  }
+}
+.whoweare {
+  /* .whoweare__container */
+
+  &__container {
+  }
+
+  /* .whoweare__header */
+
+  &__header {
+  }
+
+  /* .whoweare__body */
+
+  &__body {
+  }
+
+  /* .whoweare__video */
+
+  &__video {
+  }
+
+  /* .whoweare__content */
+
+  &__content {
+  }
+
+  /* .whoweare__top */
+
+  &__top {
+  }
+
+  /* .whoweare__title */
+
+  &__title {
+  }
+
+  /* .whoweare__text */
+
+  &__text {
+  }
+
+  /* .whoweare__items */
+
+  &__items {
+  }
+
+  /* .whoweare__item */
+
+  &__item {
+  }
+}
+.item-whoweare {
+  /* .item-whoweare__icon */
+
+  &__icon {
+  }
+
+  /* .item-whoweare__body */
+
+  &__body {
+  }
+
+  /* .item-whoweare__title */
+
+  &__title {
+  }
+
+  /* .item-whoweare__text */
+
+  &__text {
+  }
+}
+.clients {
+  /* .clients__container */
+
+  &__container {
+  }
+
+  /* .clients__items */
+
+  &__items {
+  }
+
+  /* .clients__item */
+
+  &__item {
+  }
+}
+.subscribe {
+  /* .subscribe__container */
+
+  &__container {
+  }
+
+  /* .subscribe__body */
+
+  &__body {
+  }
+
+  /* .subscribe__title */
+
+  &__title {
+  }
+
+  /* .subscribe__form */
+
+  &__form {
+  }
+
+  /* .subscribe__input */
+
+  &__input {
+  }
+
+  /* .subscribe__button */
+
+  &__button {
+  }
+}
+.getintouch {
+  /* .getintouch__container */
+
+  &__container {
+  }
+
+  /* .getintouch__header */
+
+  &__header {
+  }
+
+  /* .getintouch__items */
+
+  &__items {
+  }
+
+  /* .getintouch__item */
+
+  &__item {
+  }
+}
+.item-getintouch {
+  /* .item-getintouch_active */
+
+  &_active {
+  }
+
+  /* .item-getintouch__icon */
+
+  &__icon {
+  }
+
+  /* .item-getintouch__emails */
+
+  &__emails {
+  }
+
+  /* .item-getintouch__email */
+
+  &__email {
+  }
+
+  /* .item-getintouch__label */
+
+  &__label {
+  }
+
+  /* .item-getintouch__button */
+
+  &__button {
+  }
+}
+.contact {
+  /* .contact__container */
+
+  &__container {
+  }
+
+  /* .contact__body */
+
+  &__body {
+  }
+
+  /* .contact__content */
+
+  &__content {
+  }
+
+  /* .contact__title */
+
+  &__title {
+  }
+
+  /* .contact__text */
+
+  &__text {
+  }
+
+  /* .contact__button */
+
+  &__button {
+  }
+}
+.footer {
+  /* .footer__top */
+
+  &__top {
+  }
+
+  /* .footer__main */
+
+  &__main {
+  }
+
+  /* .footer__row */
+
+  &__row {
+  }
+
+  /* .footer__column */
+
+  &__column {
+  }
+
+  /* .footer__label */
+
+  &__label {
+  }
+
+  /* .footer__menu */
+
+  &__menu {
+  }
+
+  /* .footer__contacts */
+
+  &__contacts {
+  }
+
+  /* .footer__bottom */
+
+  &__bottom {
+  }
+
+  /* .footer__container */
+
+  &__container {
+  }
+
+  /* .footer__copy */
+
+  &__copy {
+  }
+
+  /* .footer__social */
+
+  &__social {
+  }
+}
+.menu-footer {
+  /* .menu-footer__list */
+
+  &__list {
+  }
+
+  /* .menu-footer__item */
+
+  &__item {
+  }
+
+  /* .menu-footer__link */
+
+  &__link {
+  }
+}
+.contacts-footer {
+  /* .contacts-footer__item */
+
+  &__item {
+    /* .contacts-footer__item_phone */
+
+    &_phone {
+    }
+
+    /* .contacts-footer__item_map */
+
+    &_map {
+    }
+
+    /* .contacts-footer__item_email */
+
+    &_email {
+    }
+  }
+}
+.social {
+  /* .social__item */
+
+  &__item {
+  }
+}
